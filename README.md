@@ -1,3 +1,6 @@
 # Tallerdd1
 
-asdhwsygifhap
+Integrantes: 
+
+- Lukas Sanhueza Solar
+- Cristian Contreras
